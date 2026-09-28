@@ -2,6 +2,8 @@
 
 Sistema de controle financeiro pessoal em Python com interface gráfica e banco de dados local. Permite cadastro de receitas, despesas e metas, com relatórios e gráficos.
 
+![Minha Foto](./docs/financontrol.png)
+
 ---
 
 ## ✨ Funcionalidades
